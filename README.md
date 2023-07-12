@@ -2,6 +2,8 @@
 
 A library for sending information between Arduinos connected via RS485 wiring as described [here](https://www.gammon.com.au/forum/?id=11428).
 
+A non-blocking version is available at https://github.com/nickgammon/RS485_non_blocking
+
 
 * Handles "packets" of between 1 and 255 bytes.
 
